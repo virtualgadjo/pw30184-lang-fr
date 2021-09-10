@@ -9,3 +9,16 @@ je mets lentement à jour les traductions en me basant sur le réprtoire origina
 le zip sera progressivement mis à jour, ça va être long... mais j'irai au bout
 
 le readme est en français parce que c'est destiné à servir à passer l'admin de pw en... français
+
+---
+
+les traducteurs de la précédente version destinée à pw 3.0.148 sont
+
+* Pierre-Luc Auclair
+* UnderK
+* Guillaume
+* achabany
+* Vincent Maillard
+
+dans un premier temps je conserverai celles de leurs traductions présentes dans les fichiers
+
