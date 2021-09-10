@@ -1,6 +1,6 @@
-# Traduction française de l'admin de processwire
+# Traduction française de l'admin de processwire 3.0.184
 
-je mets lentement à jour les traductions en me basant sur le réprtoire original pw-lang-fr-master (https://github.com/v-maillard/pw-lang-fr) et en l'adaptant pour la **version master de processwire 3.0.184**
+je mets lentement à jour les traductions en me basant sur le réprtoire original pw-lang-fr (https://github.com/v-maillard/pw-lang-fr) et en l'adaptant pour la **version master de processwire 3.0.184**
 
 * première étape, supperssion, comme recommandé par pw, de toutes les phrases abandonnées
 * deuxième étape, en cours, remplir progressivement les phrases vides
@@ -14,11 +14,11 @@ le readme est en français parce que c'est destiné à servir à passer l'admin 
 
 les traducteurs de la précédente version destinée à pw 3.0.148 sont
 
+* Vincent Maillard
 * Pierre-Luc Auclair
 * UnderK
 * Guillaume
 * achabany
-* Vincent Maillard
 
 dans un premier temps je conserverai celles de leurs traductions présentes dans les fichiers
 
