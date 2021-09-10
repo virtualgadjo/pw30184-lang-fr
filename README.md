@@ -7,5 +7,6 @@ je mets lentement à jour les traductions en me basant sur le réprtoire origina
 * troisième étape, inclure et traduire les fichiers que pw liste comme "n'ayant pas de fichier de traduction"
 
 le zip sera progressivement mis à jour
+là, la phase nettoyage des phrases abandonnées est achevée, début des trads de phrases vides en cours
 
 le readme est en français parce que c'est destiné à servir à passer l'admin de pw en... français
