@@ -4,7 +4,7 @@ je mets lentement à jour les traductions en me basant sur le réprtoire origina
 
 * première étape, supperssion, comme recommandé par pw, de toutes les phrases abandonnées
 * deuxième étape, en cours, remplir progressivement les phrases vides
-* pendant la deuxième étape, inclure et traduire les fichiers que pw liste comme "n'ayant pas de fichier de traduction", ça concerne notamment les champs de type images, fichiers, repeater dont les modules ont complètement changé
+* pendant la deuxième étape, inclure et traduire les fichiers que pw liste comme "n'ayant pas de fichier de traduction", ça concerne notamment les champs de type images, fichiers, datetime dont les modules ont complètement changé et quelques autres
 
 le zip sera progressivement mis à jour, ça va être long... mais j'irai au bout
 
