@@ -1,6 +1,6 @@
-# pw30184-lang-fr
+# Traduction française de l'admin de processwire
 
-je mets lentement à jour les traductions en me basant sur le réprtoire original pw-lang-fr-master et en l'adaptant pour la **version master de processwire 3.0.184**
+je mets lentement à jour les traductions en me basant sur le réprtoire original pw-lang-fr-master (https://github.com/v-maillard/pw-lang-fr) et en l'adaptant pour la **version master de processwire 3.0.184**
 
 * première étape, supperssion, comme recommandé par pw, de toutes les phrases abandonnées
 * deuxième étape, en cours, remplir progressivement les phrases vides
