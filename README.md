@@ -9,7 +9,7 @@ Etat des lieux
 * quelques fieldtypes dont les traductions avaient disparu pour cause de changement total de fichier/module/etc ont été réintégrées et traduits, images, fichiers, datetime et toggle
 * **il m'en reste quelques uns dans la liste des sans fichier de trad à réintégrer et traduire mais, en l'état, la trad est utilisable pour une admin vivable pour les allergiques à l'anglais, pas mon cas étant à moitié rosbif moi-même mais je ne suis pas seul sur terre... ah bon ?** :stuck_out_tongue: 
 
-le readme est en français parce que c'est destiné à servir à passer l'admin de PW en... français
+le readme est en français parce que c'est destiné à servir à passer l'admin de PW en... français, nooon, sans blague !
 
 ---
 les traducteurs de la précédente version destinée à pw 3.0.148 sont
