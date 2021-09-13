@@ -14,7 +14,7 @@ les traducteurs de la précédente version destinée à pw 3.0.148 sont
 
 * [Vincent Maillard](https://github.com/v-maillard/pw-lang-fr)
 * [Pierre-Luc Auclair](https://github.com/plauclair)
-* UnderK
+* [UnderK](https://github.com/underk/pw_french)
 * Guillaume
 * achabany
 
