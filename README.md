@@ -12,8 +12,8 @@ le readme est en français parce que c'est destiné à servir à passer l'admin 
 ---
 les traducteurs de la précédente version destinée à pw 3.0.148 sont
 
-* Vincent Maillard
-* Pierre-Luc Auclair
+* [Vincent Maillard](https://github.com/v-maillard/pw-lang-fr)
+* [Pierre-Luc Auclair](https://github.com/plauclair)
 * UnderK
 * Guillaume
 * achabany
