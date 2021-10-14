@@ -4,6 +4,7 @@ Traduction complète de l'admin de ProcessWire
 * plus aucune phrase abandonnée
 * plus aucune phrase vide
 * plus aucun fichier du core sans fichier de traduction
+* on dirait bien que j'ai fini !
 
 je suis parti de la version pw-lang-fr (https://github.com/v-maillard/pw-lang-fr) finalisée pour pw 3.0.148 en conservant celles des traductions présentes et en faisant un grand nettoyage de printemps de ce qui n'existait plus, était devenu inutile et en y ajoutant ceux des fichiers qui soit avaient été traduits mais avaient disparu pour cause de changement radical de PW, soit n'avaient jamais été traduits
 
